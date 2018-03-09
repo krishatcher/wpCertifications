@@ -1,0 +1,11 @@
+#sendContactsSignupForm .hide {
+	display: none;
+}
+
+#sendContactsSignupForm .success {
+	color: green;
+}
+
+#sendContactsSignupForm .error {
+	color: darkred;
+}
